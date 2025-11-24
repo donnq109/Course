@@ -1,0 +1,52 @@
+/* Quy tắc CSS để tạo kiểu cho thẻ nội dung (content) */
+.content {
+    font-family: Arial, sans-serif; /* Sửa đổi thuộc tính họ phông chữ */
+    font-size: 16px; /* Sửa đổi thuộc tính kích thước phông chữ */
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ tiêu đề (header) */
+header {
+    background-color: #333; /* Sửa đổi thuộc tính màu nền (Ví dụ: màu xám đậm) */
+    color: white; /* Thêm màu chữ để dễ đọc hơn */
+    padding: 10px 0; /* Thêm padding cho đẹp */
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ nav (navigation) */
+nav {
+    background-color: #4CAF50; /* Sửa đổi thuộc tính màu nền (Ví dụ: màu xanh lá cây) */
+    padding: 10px 0; /* Thêm padding */
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ chính (main) */
+main {
+    background-color: #f4f4f4; /* Sửa đổi thuộc tính màu nền (Ví dụ: màu xám nhạt) */
+    font-size: 1.1em; /* Sửa đổi thuộc tính kích thước phông chữ */
+    padding: 20px; /* Thêm padding */
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ chân trang (footer) */
+footer {
+    background-color: #333; /* Sửa đổi thuộc tính màu nền (Ví dụ: màu xám đậm) */
+    color: white; /* Thêm màu chữ để dễ đọc hơn */
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ li (list item) */
+li {
+    display: inline-block; /* Sửa đổi thuộc tính hiển thị: làm cho các mục nằm trên cùng một dòng */
+    width: 150px; /* Sửa đổi thuộc tính chiều rộng (Ví dụ: 150px) */
+    text-align: center; /* Căn giữa văn bản trong mục */
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ h1 (heading 1) */
+h1 {
+    text-align: center; /* Sửa đổi căn chỉnh văn bản */
+    font-family: 'Georgia', serif; /* Sửa đổi họ phông chữ */
+    color: #FF5733; /* Sửa đổi thuộc tính màu sắc (Ví dụ: màu cam đỏ) */
+}
+
+/* Quy tắc CSS để tạo kiểu cho thẻ p (paragraph) */
+p {
+    line-height: 1.6; /* Sửa đổi thuộc tính chiều cao dòng (Ví dụ: 1.6 lần kích thước phông chữ) */
+}
